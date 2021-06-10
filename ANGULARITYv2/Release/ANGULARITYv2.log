@@ -1,0 +1,43 @@
+﻿  Angularity.cpp
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: bool __thiscall sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV?$Rect@H@2@@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QAE@XZ).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QAE@XZ).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: bool __thiscall sf::Font::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Font@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::Font::~Font(void)" (__imp_??1Font@sf@@QAE@XZ).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::Font::Font(void)" (__imp_??0Font@sf@@QAE@XZ).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UAE@XZ).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QAE@VVideoMode@1@ABVString@1@IABUContextSettings@1@@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QAE@EEEE@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: static class sf::Color const sf::Color::Red" (__imp_?Red@Color@sf@@2V12@B).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: static class sf::Color const sf::Color::Yellow" (__imp_?Yellow@Color@sf@@2V12@B).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Window::display(void)" (__imp_?display@Window@sf@@QAEXXZ).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: bool __thiscall sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QAE_NAAVEvent@2@@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: bool __thiscall sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QBE_NXZ).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Window::close(void)" (__imp_?close@Window@sf@@QAEXXZ).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QAEXABVDrawable@2@ABVRenderStates@2@@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QAEXABVColor@2@@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Shape::setOutlineThickness(float)" (__imp_?setOutlineThickness@Shape@sf@@QAEXM@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Shape::setOutlineColor(class sf::Color const &)" (__imp_?setOutlineColor@Shape@sf@@QAEXABVColor@2@@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QAEXABVColor@2@@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Shape::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Shape@sf@@QAEXABV?$Rect@H@2@@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Shape::setTexture(class sf::Texture const *,bool)" (__imp_?setTexture@Shape@sf@@QAEXPBVTexture@2@_N@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QAE@PBDABVlocale@std@@@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (__imp_??0RectangleShape@sf@@QAE@ABV?$Vector2@M@1@@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QAE@III@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: bool __thiscall sf::Music::openFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?openFromFile@Music@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall sf::Music::~Music(void)" (__imp_??1Music@sf@@UAE@XZ).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::Music::Music(void)" (__imp_??0Music@sf@@QAE@XZ).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Text::setColor(class sf::Color const &)" (__imp_?setColor@Text@sf@@QAEXABVColor@2@@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Text::setCharacterSize(unsigned int)" (__imp_?setCharacterSize@Text@sf@@QAEXI@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Text::setFont(class sf::Font const &)" (__imp_?setFont@Text@sf@@QAEXABVFont@2@@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: void __thiscall sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QAEXABVString@2@@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::Text::Text(void)" (__imp_??0Text@sf@@QAE@XZ).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: virtual void __thiscall sf::SoundStream::play(void)" (__imp_?play@SoundStream@sf@@UAEXXZ).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: static class sf::Vector2<int> __cdecl sf::Mouse::getPosition(class sf::Window const &)" (__imp_?getPosition@Mouse@sf@@SA?AV?$Vector2@H@2@ABVWindow@2@@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: static bool __cdecl sf::Mouse::isButtonPressed(enum sf::Mouse::Button)" (__imp_?isButtonPressed@Mouse@sf@@SA_NW4Button@12@@Z).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall sf::Text::~Text(void)" (__imp_??1Text@sf@@UAE@XZ).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: virtual __thiscall sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UAE@XZ).
+Angularity.obj : error LNK2001: неразрешенный внешний символ "__declspec(dllimport) public: __thiscall sf::String::~String(void)" (__imp_??1String@sf@@QAE@XZ).
+C:\Users\sam_b\source\repos\ANGULARITYv2\Release\ANGULARITYv2.exe : fatal error LNK1120: неразрешенных внешних элементов: 41
